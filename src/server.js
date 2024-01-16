@@ -5,6 +5,7 @@ import cors from 'cors'
 
 // Importar la variable router veterinarios
 import routerVeterinarios from './routers/veterinario_routes.js'
+// Importar la variable router pacientes
 import routerPacientes from './routers/paciente_routes.js'
 
 

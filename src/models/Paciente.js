@@ -1,6 +1,6 @@
 import mongoose, {Schema,model} from 'mongoose'
 import bcrypt from "bcryptjs"
-
+// Esquema del paciente
 const pacienteSchema = new Schema({
     nombre:{
         type:String,
