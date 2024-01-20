@@ -15,8 +15,8 @@ Realización del Sprint 2 del proyecto.
 ### Creación de las configuraciones del proyecto
 Uso del Nodemailer para el envio de correos, para la verificación de cuentas mediante el uso de tokens.
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/92ed065a-9064-408a-8420-9d9e9c763638)
-Uso de un archivo (autenticacion.js), el cual contiene las verificaciones mediante el uso de tokens enviados al correo electrónica que se registre.
 
+Uso de un archivo (autenticacion.js), el cual contiene las verificaciones mediante el uso de tokens enviados al correo electrónica que se registre.
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/9ed959b4-a5d3-487c-ac47-b3f449e96cb3)
 ### Creación de los helpers del proyecto
 Creación del helper JWT para establecer una conexión con el paciente y el veterinario.
