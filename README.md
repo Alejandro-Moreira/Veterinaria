@@ -16,6 +16,7 @@ Realización del Sprint 2 del proyecto.
 Uso del Nodemailer para el envio de correos, para la verificación de cuentas mediante el uso de tokens.
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/92ed065a-9064-408a-8420-9d9e9c763638)
 Uso de un archivo (autenticacion.js), el cual contiene las verificaciones mediante el uso de tokens enviados al correo electrónica que se registre.
+
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/9ed959b4-a5d3-487c-ac47-b3f449e96cb3)
 ### Creación de los helpers del proyecto
 Creación del helper JWT para establecer una conexión con el paciente y el veterinario.
@@ -25,6 +26,7 @@ Creación de el controlador paciente con cada uno de los métodos y exportación
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/f96a28dd-6295-4799-ae82-77aaf1efa378)
 ### Creación del modelo del proyecto
 Uso de un esquema y métodos para realizar la recuperación tanto de contraseñas, además de la verificación mediante el uso de tokens.
+
 ![image](https://github.com/Alejandro-Moreira/Veterinaria/assets/117743484/69cbe6b0-cd83-4f6a-8d63-ea04e3e04e70)
 ### Creación de las rutas del proyecto
 Creamos cada una de las rutas que va a tener nuestro proyecto, importandolas mediante el path de origen.
